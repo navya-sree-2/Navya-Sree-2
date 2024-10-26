@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </p>
 
 
-- 🔭 I’m currently working on **Personal Task Enhancer(Django).**
+- 🔭 I’m currently working on **React JS.**
 - 🌱 I’m currently learning **React and Express.**
 - 👯 I’m looking to collaborate on **MERN Stack Projects.**
 - 🤝 I’m looking for help with **React and Express JS.**
