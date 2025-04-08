@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🤝 I’m looking for help with **React and Express JS.**
 - 💬 Ask me about **Django, Hibernate, SpringBoot.**
 - 📫 How to reach me **2100031266cseh@gmail.com**
-- 👨‍💻 All of my projects are available at https://navya-sree-n.vercel.app/
+- 👨‍💻 All of my projects are available at **https://navya-sree-n.vercel.app/**
 - ⚡ Fun fact **There is a programming language called INTERCAL which has keywords like IGNORE, PLEASE , FORGET. If you don’t use PLEASE enough times while coding, Compiler rejects the code.**
 
 <h3 align="left">Connect with me:</h3>
