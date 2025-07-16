@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Navya Sree Nallamothu</h1>
-<h3 align="center">A passionate full stack developer, data science enthusiast.</h3>
+<h3 align="center">A passionate full stack developer, data science enthusiast and QA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navya-sree-2&label=Profile%20views&color=0e75b6&style=flat" alt="navya-sree-2" /> </p>
 
@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 </p>
 
 
-- 🔭 I’m currently working on **React JS.**
-- 🌱 I’m currently learning **React and Express.**
-- 👯 I’m looking to collaborate on **MERN Stack Projects.**
-- 🤝 I’m looking for help with **React and Express JS.**
-- 💬 Ask me about **Django, Hibernate, SpringBoot.**
+- 🔭 I’m currently working on **Quality Assurance.**
+- 🌱 I’m currently learning **Selenium with Java.**
+- 👯 I’m looking to collaborate on **Testing Projects.**
+- 🤝 I’m looking for help with **Selenium, TesNG.**
+- 💬 Ask me about **Django, Hibernate, MERN SpringBoot.**
 - 📫 How to reach me **2100031266cseh@gmail.com**
 - 👨‍💻 All my projects are available at **https://navya-sree-n.vercel.app/**
 - ⚡ Fun fact **There is a programming language called INTERCAL which has keywords like IGNORE, PLEASE , FORGET. If you don’t use PLEASE enough times while coding, Compiler rejects the code.**
